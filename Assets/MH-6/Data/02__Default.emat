@@ -1,0 +1,5 @@
+MatPBRBasic {
+ EmissiveMap "{2A62089994A248F1}Assets/MH-6/Data/other parts_Emissive.edds"
+ BCRMap "{E77584D9ACC3737E}Assets/MH-6/Data/other parts_Height.edds"
+ NMOMap "{2905CFB51A216D32}Assets/MH-6/Data/body_Height.edds"
+}

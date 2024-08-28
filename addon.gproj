@@ -1,0 +1,22 @@
+GameProject {
+ ID "MH6"
+ GUID "61E0FECEA94DFAE5"
+ TITLE "MH-6"
+ Dependencies {
+  "58D0FB3206B6F859" "61D7354031940E7B"
+ }
+ Configurations {
+  GameProjectConfig PC {
+  }
+  GameProjectConfig XBOX_ONE {
+  }
+  GameProjectConfig XBOX_SERIES {
+  }
+  GameProjectConfig PS4 {
+  }
+  GameProjectConfig PS5 {
+  }
+  GameProjectConfig HEADLESS {
+  }
+ }
+}

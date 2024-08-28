@@ -1,0 +1,30 @@
+VehiclePartRotor : "{31CC44C2EDD743B7}Prefabs/Vehicles/Helicopters/UH1H/VehParts/Rotor/VehPart_UH1H_rotor_main.et" {
+ ID "4B42E71698F5739C"
+ components {
+  MeshObject "{4B42E716914465B9}" {
+   Object "{724AC31274297DA0}Assets/MH-6/Rotors/MainRotor.xob"
+  }
+  SCR_RotorDamageManagerComponent "{3EBB276D48AFFF41}" {
+   "Additional hit zones" {
+    SCR_RotorHitZone RotorMain_Shaft {
+     ColliderNames {
+      "UTM_FG_Rotor"
+     }
+     "DamageState threshold" {
+      0.7 0.7 0.2
+     }
+    }
+    SCR_RotorHitZone RotorMain {
+     m_RotorPointInfo PointInfo "{5E213396A773CEEC}" {
+      PivotID ""
+      Offset -0.009 2.1705 -0.3418
+      Angles 0.3941 0 0
+     }
+     m_fRotorRadius 4.268
+     m_fRotorThickness 0.691
+     m_iBladeCount 5
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,7 @@
+MatPBRBasic {
+ AOScale 0.613
+ EmissiveMap "{2A62089994A248F1}Assets/MH-6/Data/other parts_Emissive.edds"
+ BCRMap "{40D32EFFDDF5B932}Assets/MH-6/Data/other parts_Base_Color.edds"
+ DetailNormalMap "{1837344CB22263A0}Assets/MH-6/Data/other parts_Normal_DirectX.edds"
+ HeightMap "{E77584D9ACC3737E}Assets/MH-6/Data/other parts_Height.edds"
+}

@@ -1,0 +1,7 @@
+MatPBRBasic {
+ BCRMap "{195E477DE812BBA6}Assets/MH-6/Data/body_Base_Color.edds"
+ NMOMap "{28B2A86C474027AE}Assets/MH-6/Data/body_Normal_DirectX.edds"
+ DetailNormalPower 0.692
+ DetailNormalMap "{0F34E06824B7863D}Assets/MH-6/Data/body_Roughness.edds"
+ HeightMap "{2905CFB51A216D32}Assets/MH-6/Data/body_Height.edds"
+}

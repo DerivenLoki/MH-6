@@ -1,0 +1,15 @@
+VehiclePartRotor : "{E76A071F78B95284}Prefabs/Vehicles/Helicopters/Z11/VehParts/Rotor/GodsVehPart_Z11_rotor_main.et" {
+ ID "4B42E71698F5739C"
+ components {
+  SCR_RotorDamageManagerComponent "{3EBB276D48AFFF41}" {
+   "Additional hit zones" {
+    SCR_RotorHitZone RotorMain_Shaft {
+     "DamageState threshold" {
+      0.7 0.6 0.2
+     }
+    }
+   }
+  }
+ }
+ coords 5.731 -0.742 17.045
+}

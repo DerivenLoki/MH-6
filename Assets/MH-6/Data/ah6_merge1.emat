@@ -1,0 +1,7 @@
+MatPBRBasic {
+ BCRMap "{195E477DE812BBA6}Assets/MH-6/Data/body_Base_Color.edds"
+ UVSrcGlobalMaps "UV set 2"
+ GlobalMapsUVTransform MatUVTransform "{61FB210990335910}" {
+  Rotation 92.761
+ }
+}

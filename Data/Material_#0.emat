@@ -1,0 +1,8 @@
+MatPBRBasic {
+ AOScale 0.491
+ BCRMap "{195E477DE812BBA6}Assets/MH-6/Data/body_Base_Color.edds"
+ OpacityMap "{2905CFB51A216D32}Assets/MH-6/Data/body_Height.edds"
+ NMOMap "{28B2A86C474027AE}Assets/MH-6/Data/body_Normal_DirectX.edds"
+ DetailNormalMap "{28B2A86C474027AE}Assets/MH-6/Data/body_Normal_DirectX.edds"
+ HeightMap "{2905CFB51A216D32}Assets/MH-6/Data/body_Height.edds"
+}
