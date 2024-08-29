@@ -3,7 +3,7 @@ GameProject {
  GUID "61E0FECEA94DFAE5"
  TITLE "MH-6"
  Dependencies {
-  "58D0FB3206B6F859" "61D7354031940E7B"
+  "58D0FB3206B6F859"
  }
  Configurations {
   GameProjectConfig PC {
